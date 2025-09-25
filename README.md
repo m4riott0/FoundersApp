@@ -29,7 +29,7 @@ Inspirado em um estilo **minimalista, escuro e moderno**, com foco em clareza e 
 ## 🛠️ Tecnologias
 
 * **Frontend** → React
-* **Backend** → .NET
+* **Backend** → node.js
 * **Banco de dados**:
 
   * **Supabase** → autenticação, perfis, feed social, notificações realtime, storage de mídias.
