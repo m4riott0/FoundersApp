@@ -165,7 +165,3 @@ O modelo **freemium → premium** garante escala e diferenciação.
 * Marketplace de serviços (design, marketing, devs).
 
 ---
-
-📌 **Resumo**:
-Este documento define a visão do **FoundersApp**, seu layout visual, tecnologias principais (React + .NET + Supabase + PostgreSQL + Abacate Pay), modelo freemium/premium e roadmap de evolução.
-A meta é criar uma **nova rede social de projetos/startups** moderna, escalável e monetizável.
